@@ -8,3 +8,16 @@ ______________________________________________________________________________
 3. Now, we will create infinite loop to check whether voter list is empty or not. If voter list is empty then it will says “voting session is over” otherwise, it will calculate result.
 ______________________________________________________________________________
 4. Now, we will display the Candidate who won and the total number of votes all candidates got.
+
+
+
+
+
+
+
+
+<div align="center">
+
+<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
+
+</div>
